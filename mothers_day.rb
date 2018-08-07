@@ -2,5 +2,5 @@
 def mothers_day("your_name")
   puts "Happy, Mothers Day, #{your_name}"
 end 
-  mothers_day("Mom!")
+  puts mothers_day("Mom!")
 
